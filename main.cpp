@@ -3,7 +3,6 @@
 #include <algorithm>
 #include <vector>
 #include <climits>
-//AntoDijkstra
 #define INF INT_MAX
 #define WEIGHT 25
 using namespace std;
